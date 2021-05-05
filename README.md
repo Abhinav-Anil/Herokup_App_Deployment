@@ -1,5 +1,5 @@
 # Herokup_App_Deployment
-<h2Web Deployment on Heroku</h2>
+<h1>Web Deployment on Heroku</h1>
 
 <h2>To Run the program</h2>
 
@@ -10,9 +10,8 @@ python app.py
 
 ```
 To check the live demo click 
-[demo](https://todo-codewithabhinav.herokuapp.com/)
 ```
-
+<h2>DEMO Link--></h2> [demo](https://todo-codewithabhinav.herokuapp.com/)
 
 <h1>To Contact</h1>
 
