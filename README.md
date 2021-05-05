@@ -16,6 +16,19 @@ Write down the following command in your python terminal
 * from app import db
 * db.create_all()
 
+<h3> For downloading Heroku CLI</h3>
+* sudo snap install --classic heroku
+
+<h2> To push code on Heroku</h2>
+```
+Write down the following command in your terminal
+```
+* heroku login
+* git init
+* git add .
+* git commit
+* heroku create todo-codewithabhinav
+* git push heroku master
 
 <h2>DEMO Link --> </h2> 
 
