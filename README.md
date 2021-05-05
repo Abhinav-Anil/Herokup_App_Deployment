@@ -23,6 +23,7 @@ Write down the following command in your python terminal
 ```
 Write down the following command in your terminal
 ```
+
 * heroku login
 * git init
 * git add .
