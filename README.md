@@ -11,9 +11,10 @@ python app.py
 <h2> To create db file</h2>
 ```
 Write down the following command in your python terminal
+```
 * from app import db
 * db.create_all()
-```
+
 
 ```
 To check the live demo click 
