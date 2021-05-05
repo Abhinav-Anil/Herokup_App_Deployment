@@ -8,7 +8,8 @@ pip install -r requirements.txt
 python app.py
 ```
 
-```To check the live demo click 
+```
+To check the live demo click 
 ```
 [demo](https://todo-codewithabhinav.herokuapp.com/)
 
