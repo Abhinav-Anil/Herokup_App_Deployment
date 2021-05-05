@@ -17,9 +17,6 @@ Write down the following command in your python terminal
 * db.create_all()
 
 
-```
-To check the live demo click 
-```
 <h2>DEMO Link --> </h2> 
 
 [demo](https://todo-codewithabhinav.herokuapp.com/)
