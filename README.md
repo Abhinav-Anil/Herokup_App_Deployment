@@ -20,6 +20,7 @@ Write down the following command in your python terminal
 * sudo snap install --classic heroku
 
 <h2> To push code on Heroku</h2>
+
 ```
 Write down the following command in your terminal
 ```
