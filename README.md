@@ -11,7 +11,7 @@ python app.py
 ```
 To check the live demo click 
 ```
-<h2>DEMO Link--></h2> [demo](https://todo-codewithabhinav.herokuapp.com/)
+<h2>DEMO Link --> </h2> [demo](https://todo-codewithabhinav.herokuapp.com/)
 
 <h1>To Contact</h1>
 
