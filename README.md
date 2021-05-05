@@ -8,8 +8,9 @@ pip install -r requirements.txt
 python app.py
 ```
 
-```To check the live demo click <a href https://todo-codewithabhinav.herokuapp.com/>
+```To check the live demo click 
 ```
+<a href https://todo-codewithabhinav.herokuapp.com/>
 
 <h1>To Contact</h1>
 
